@@ -47,6 +47,13 @@ key.
 **1. Code -> SSH -> copy -> Enter in terminal:**
   > git clone [copypaste]
 
-
+проверить статус репозитория: 
+> git status
+подготовить новый файл для комита:
+> git add git-how-to.md
+сделать комит:
+> git commit -m “initial commit”
+отправить изменения на сервер:
+> git push
 
 
